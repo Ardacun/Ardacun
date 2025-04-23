@@ -1,45 +1,54 @@
-# Adrien D'acunto - Developer Portfolio
+<h1 align="center">Hi there, I'm Adrien D'acunto 👋</h1>
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=ardacun&label=Profile%20views&color=0e75b6&style=flat" alt="Adrien's profile views" /> 
+ <img src="https://img.shields.io/badge/Languages-React | Angular | PHP | Java -green.svg" alt="Adrien's languages" />
+ <img src="https://img.shields.io/github/followers/ardacun?style=social&label=Follow&maxAge=2592000" alt="Adrien's followers" />
+ <a href="https://ardacun.github.io"><img src="https://img.shields.io/badge/My Portfolio-ardacun.github.io-2B005C.svg" alt="Adrien's Portfolio" /></a>
+</p>
 
-Welcome to the repository for my portfolio website! I'm Adrien D'acunto, a software developer, passionate about web and software development. This repository contains the code for my portfolio, where you can explore my projects, skills, and more.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ardacun&repo=Stocktaking)](https://github.com/ardacun/Stocktaking)
 
-## 🌐 Explore My Portfolio
+- 👀 I'm a software developer specialising in web development using React, Angular and NextJS
+- 🔭 I’m currently looking for a job
+- 🌱 I’m currently practicing and building projects with React, Angular and NextJS.
 
-For a full view of my work, projects, education and skills, please visit my portfolio website:
+## 🔨 Technical Stack
 
-**[Visit Portfolio](https://ardacun.github.io/)**
+**Front-end** :
+- React <img src="assets/reactlogo.png" width="14">
+- Angular <img src="assets/angular-icon.svg" width="10">
+- NextJS <img src="assets/nextjs-icon.svg" width="14">
+- HTML <img src="assets/htmllogo.png" width="14">
+- CSS <img src="assets/csslogo.png" width="14">
+- Javascript <img src="assets/javascript.svg" width="14">
+- Typescript <img src="assets/typescript-icon.svg" width="14">
 
-## 🛠️ What's Inside
+**Back-end** : 
+- PHP <img src="assets/php.svg" width="14">
+- Java <img src="assets/java.svg" width="14">
+- C# <img src="assets/C_Programming_Language.svg.png" width="14">
+- SQL (MySQL) <img src="assets/mysql-icon.svg" width="14">
+- NoSQL (MongoDB, Cosmos DB) <img src="assets/mongodb-icon.svg" width="8">
+- Express <img src="assets/express.svg" width="14">
 
-This repository contains the source code for my portfolio, built with Next.js and Tailwind CSS.
+**Cloud Computing** :
+- Firebase <img src="assets/firebase.svg" width="11">
+- Azure <img src="assets/microsoft-azure.svg" width="11">
 
-- **Projects Section:** Showcases a selection of my fun projects.
-- **About Me:** A brief bio and my journey in tech.
-- **Experiences:** Detailed accounts of my professional experiences and roles I've held.
-- **Education:** Detailed list of my diplomas.
-- **Skills:** Overview of my technical expertise.
-- **Contact:** How to get in touch with me.
+**Monitoring** :
+- Grafana <img src="assets/grafana.svg" width="14">
 
-## 🚀 Highlights
+**Tools** :
+- Visual Studio Code <img src="assets/vscodelogo.png" width="14">
+- Jira <img src="assets/jira.svg" width="14">
+- Zoho <img src="assets/zoho.svg" width="14">
+- Git <img src="assets/gitlogo.png" width="14">
+- Github <img src="assets/github-icon.svg" width="14">
+- Docker <img src="assets/docker-icon.svg" width="14">
+  
+## ✉️ Contact me
 
-Here are a few projects featured on my portfolio:
+For jobs opportunities :
 
-- **[TicTacToe](https://github.com/Ardacun/TicTacToe):** an online Tic Tac Toe application 🎮
-- **[Stocktaking](https://github.com/Ardacun/Stocktaking):** an inventory management application 💲
-- **[MoneyFlow-Monitor](https://github.com/Ardacun/MoneyFlow-Monitor):** a financial monitor application 💥
-
-## 💼 Actively Looking for Job Opportunities
-
-I am currently **actively seeking** job opportunities in Full-Stack Development, Front-end Development, Back-end Development and Software Engineering. I am eager to bring my skills to a dynamic and forward-thinking team.
-
-If you’re hiring or know of any opportunities, please feel free to reach out !
-
-## 📫 Get in Touch
-
-I'm always open to new opportunities and collaborations. You can find more details on how to contact me on my [portfolio website](https://ardacun.github.io/), or connect with me directly on:
-
-- **LinkedIn:** [AdrienDacunto](https://linkedin.com/in/yourusername)
-- **Email:** [adrien.dacunto@limayrac.fr](adrien.dacunto@limayrac.fr)
-
-## 📝 License
-
-This repository and my portfolio are open-source. Feel free to explore and use !
+- Email me at [adrien.dacunto@limayrac.fr](mailto:adrien.dacunto@limayrac.fr).
+- Send me a message via [LinkedIn](https://www.linkedin.com/in/adriendacunto/).
