@@ -43,5 +43,3 @@ I'm always open to new opportunities and collaborations. You can find more detai
 ## 📝 License
 
 This repository and my portfolio are open-source. Feel free to explore and use !
-
-
